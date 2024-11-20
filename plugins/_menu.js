@@ -143,8 +143,8 @@ astro_patch.smd({
         'forwardingScore': 100, 
         'isForwarded': true,
         'externalAdReply': {
-          'title': 'EMMY_HENZ-V3',
-          'sourceUrl': 'https://whatsapp.com/channel/0029VangYOt96H4JhFarL10C'
+          'title': 'RMH-BOTS-ANTIBUG'
+          'sourceUrl': 'https://whatsapp.com/channel/0029VakZxvW8Pgs8FIrFQx0P'
         }
       },
       'ephemeralExpiration': 3000
