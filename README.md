@@ -1,11 +1,11 @@
-### EMMY_HENZ-V3 WHATSAPP BOT🔥
+### RMH-BOTS ANTIBUG🔥
 
 --------
 
 <p align="center">
-<a href="https://github.com/EMMYHENZ-TECH"><img title="Author" src="https://i.ibb.co/7XTnzx9/IMG-20240927-WA0011.jpg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/BadtechRamadhan"><img title="Author" src="https://files.catbox.moe/hsi1o1.jpg?style=for-the-badge&logo=github"></a>
 
-EMMY_HENZ-V3  is a Cool Multi-Device WhatsApp bot developed by [EMMY HENZ](https://github.com/EMMYHENZ-TECH). It offers a wide range of extraordinary features, making it an advanced and user-friendly bot for various purposes.
+RMH-BOTS-ANTIBUG  is a Cool Multi-Device WhatsApp bot developed by [RAMAH SAGE](https://github.com/BadtechRamadhan). It offers a wide range of extraordinary features, making it an advanced and user-friendly bot for various purposes.
 
 --------
 
@@ -14,7 +14,7 @@ EMMY_HENZ-V3  is a Cool Multi-Device WhatsApp bot developed by [EMMY HENZ](https
 ### Fork The Repo
 
 --------
-***`Star ⭐` repository & Click [`FORK`](https://github.com/EMMYHENZ-TECH/EMMY-HENZ-V3)***
+***`Star ⭐` repository & Click [`FORK`](https://github.com/BadtechRamadhan/RMH-BOTS-ANTIBUG)***
 --------|
 
 ### `GENERATE SESSION👇👇`
@@ -35,12 +35,12 @@ EMMY_HENZ-V3  is a Cool Multi-Device WhatsApp bot developed by [EMMY HENZ](https
 --------
 
 
-### `DEPLOYEMENTS 👇👇🥰`
+### `DEPLOYEMENTS 👇👇`
 
 
-### BOT HOSTING PANEL LINK
+### TALKDROVE PANEL LINK
 
-### ***[`Deploy`](https://bot-hosting.net/?aff=1271741477571006527)***
+### ***[`Deploy`](https://host.talkdrove.com/signup?ref=6SCGE24N)***
 
 
 `AFTER YARN GET INSTALLED, REMOVE YOUR COMMAND FROM BASH FILE AND CHANGE BOT START FILE NAME FROM index.js TO start.js`
@@ -50,13 +50,13 @@ EMMY_HENZ-V3  is a Cool Multi-Device WhatsApp bot developed by [EMMY HENZ](https
 
 ### DEPLOY ON HEROKU 
 
-***[`Deploy`](https://www.herokucdn.com/deploy/button.svg)(https://heroku.com/deploy?template=https://github.com/EMMYHENZ-TECH/EMMY-HENZ-V3)***
+***[`Deploy`](https://www.herokucdn.com/deploy/button.svg)(https://heroku.com/deploy?template=https://github.com/Badtechramadhan/RMH-BOTS-ANTIBUG)***
 
 --------
 
 ### DEPLOY ON REPLIT
 
-   <a href='https://repl.it/github/EMMYHENZ-TECH/EMMY-HENZ-V3' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-REPLIT-orange?style=for-the-badge&logo=replit&logoColor=white'/></a>
+   <a href='https://repl.it/github/Badtechramadhan/RMH-BOTS-ANTIBUG' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-REPLIT-orange?style=for-the-badge&logo=replit&logoColor=white'/></a>
 
 --------
 
@@ -69,7 +69,7 @@ EMMY_HENZ-V3  is a Cool Multi-Device WhatsApp bot developed by [EMMY HENZ](https
 
 --------
 
-### ***[`FOLLOW OUR WHATSAPP CHANNEL FOR MORE UPDATES`](https://whatsapp.com/channel/0029VangYOt96H4JhFarL10C)***
+### ***[`FOLLOW OUR WHATSAPP CHANNEL FOR MORE UPDATES`](https://whatsapp.com/channel/0029VakZxvW8Pgs8FIrFQx0P)***
 
 -------
 
@@ -86,8 +86,8 @@ apt update && apt upgrade -y
 apt install -y webp git ffmpeg curl imagemagick
 apt -y remove nodejs
 curl -fsSl https://deb.nodesource.com/setup_lts.x | bash - && apt -y install nodejs
-git clone https://github.com/EMMYHENZ-TECH/EMMY-HENZ-V3
-cd EMMY-HENZ-V3
+git clone https://github.com/Badtechramadhan/RMH-BOTS-ANTIBUG 
+cd RMH-BOTS-ANTIBUG 
 npm install
 npm start
 ```
