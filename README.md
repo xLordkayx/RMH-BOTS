@@ -29,12 +29,12 @@ RMH-BOTS-ANTIBUG  is a Cool Multi-Device WhatsApp bot developed by [RAMAH SAGE](
 
 ### PAIRING SERVER 1
 --------
-### ***Get [`SESSION SESSION_ID`](https://emmy-tech-session-id-generator-for-v3.onrender.com/)  by pairing code. `WhatsApp>***
+### ***Get [`SESSION SESSION_ID`](https://shaka-pair.onrender.com/pair)  by pairing code. `WhatsApp>***
 --------|
 
 ### PAIRING SERVER 2
 --------
-### ***Get [`SESSION SESSION_ID`](https://emmy-tech-session-id-generator-for-v3.onrender.com/)  by pairing code. `WhatsApp>***
+### ***Get [`SESSION SESSION_ID`](https://shaka-pair.onrender.com/pair)  by pairing code. `WhatsApp>***
 --------|
 
 
@@ -58,7 +58,7 @@ RMH-BOTS-ANTIBUG  is a Cool Multi-Device WhatsApp bot developed by [RAMAH SAGE](
 
 ### DEPLOY ON HEROKU 
 
-***[`Deploy`](https://www.herokucdn.com/deploy/button.svg)(https://heroku.com/deploy?template=https://github.com/Badtechramadhan/RMH-BOTS-ANTIBUG)***
+***[`Deploy`](https://www.herokucdn.com/deploy/button.svg)('https://heroku.com/deploy?template=https://github.com/Badtechramadhan/RMH-BOTS-ANTIBUG/')***
 
 --------
 
