@@ -1,15 +1,15 @@
 {
-    "name": "EMMY_HENZ-V3",
+    "name": "RMH-BOTS",
     "description": "Simple WhatsApp Bot",
     "logo": "https://i.ibb.co/7XTnzx9/IMG-20240927-WA0011.jpg",
-    "keywords": ["EMMYHENZ-TECH", "EMMY_HENZ-V3", "EMMY_HENZ"],
+    "keywords": ["RAMADHAN-ALPHA", "RMH_BOTS", "RAMADHAN_ALPHA"],
     "success_url": "/",
     "stack": "container",
   
     "env": {
       "OWNER_NAME": {
         "description": "Name for Bot Owner",
-        "value": "EMMY_HENZ-V3",
+        "value": "RMH-BOTS",
         "required": true
       },
   
@@ -20,7 +20,7 @@
       },
       "USER_IMAGES": {
         "description": "Menu Images",
-        "value": "https://i.ibb.co/7XTnzx9/IMG-20240927-WA0011.jpg",
+        "value": "https://files.catbox.moe/hsi1o1.jpg",
         "required": false
       },
   
@@ -35,17 +35,17 @@
       },
       "THUMB_IMAGE": {
         "description": "Thumbnail",
-        "value": "https://i.ibb.co/7XTnzx9/IMG-20240927-WA0011.jpg"
+        "value": "https://files.catbox.moe/hsi1o1.jpgg"
       },
       "BOT_NAME": {
         "description": " NAME FOR BOT",
         "required": false,
-        "value": "EMMY_HENZ-V3"
+        "value": "RMH-BOTS"
       },
       "TZ": {
         "description": "Put TIME_ZONE according to your location",
         "required": false,
-        "value": "Africa/Lagos"
+        "value": "Africa/Nairobi"
       },
       "READ_COMMAND": {
         "description": " Read bot cmds",
@@ -103,7 +103,7 @@
       },
       "OWNER_NUMBER": {
         "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-        "value": "2349066528353"
+        "value": "256703025571"
       },
       "SESSION_ID": {
         "description": "put your SESSION_ID here.",
@@ -115,12 +115,12 @@
       },
       "PACK_NAME": {
         "description": "Put Sticker Pack_Name.",
-        "value": "EMMY_HENZ-V3",
+        "value": "RMH-BOTS",
         "required": false
       },
       "PACK_AUTHER": {
         "description": "Put Sticker Author_Name.",
-        "value": "E M M Y",
+        "value": "R A M A H ALPHA",
         "required": false
       }  
   },
