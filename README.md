@@ -3,7 +3,7 @@
 <br>
 
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=TIMES-NEW-ROMAN &size=50&pause=1000&color=A93226&center=true&width=900&height=100&lines=THIS-IS%20RMH-BOTS-ANTIBUG;%20Multi-Device%20WhatsApp%20Bot;%20DEVELOPED%20BY%20RAMADHAN%20ALPHA)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=TIMES-NEW-ROMAN&size=50&pause=1000&color=A93226&center=true&width=900&height=100&lines=THIS-IS%20RMH-BOTS-ANTIBUG;%20Multi-Device%20WhatsApp%20Bot;%20DEVELOPED%20BY%20RAMADHAN%20ALPHA)
 <p align="center">
 
   
